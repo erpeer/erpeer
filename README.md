@@ -6,7 +6,7 @@ Computer Science student at IPB University exploring algorithms and mathematics
 
 ### 🌐 Socials:
 
-[![Instagram](https://www.instagram.com/rafhaprad_)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/rafhaprad_)
 
 ---
 
